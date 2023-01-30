@@ -1,0 +1,298 @@
+{
+  "intents": [
+    {
+      "tags": "Welcome",
+      "patterns": [
+        "hello how can you help me",
+        "what can you do",
+        "why you have been made",
+        "Can you give me solutions to my problems"
+      ],
+      "Response": [
+        "namaste Gitabot here I can give you Spiritual solutions for your Material Problems",
+        "hello Gitabot here I can give you Spiritual solutions for your Material Problems",
+        "Hi Gitabot here I can give you Spiritual solutions for your Material Problems"
+      ]
+    },
+    {
+      "tags": "Problem",
+      "patterns": [
+        "I have many problems in my life",
+        "I want solutions ",
+        "I cannot see any way forward"
+      ],
+      "Response": [
+        "Don't worry i will try solve your problem please el;aboarte your problem",
+        " I will try  my best please Elaborate your problem "
+      ]
+    },
+    {
+      "tags": "Anger",
+      "patterns": [
+        "I am a very angry person can you help me",
+        "Anger is  my weakness",
+        "Anger is heavy upon me",
+        "I cannot control my anger",
+        "how can i control my Anger ",
+        "Please help me to control anger"
+      ],
+      "Response": [
+        "This Skolas can help you to control anger  Bg. 2.56 दुःखेष्वनुद्विग्न‍मनाः सुखेषु विगतस्पृहः । वीतरागभयक्रोधः स्थिधीर्मुनिरुच्यते ॥ ५६ ॥duḥkheṣv anudvigna-manāḥ                                    sukheṣu vigata-spṛhaḥ                                           vīta-rāga-bhaya-krodhaḥ                                     sthita-dhīr munir ucyate                                                                                                        One who is not disturbed in mind even amidst the threefold miseries or elated when there is happiness, and who is free from attachment, fear and anger, is called a sage of steady mind.                                                                       Bg. 2.62                                                    ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।                                 सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥ ६२ ॥                            dhyāyato viṣayān puṁsaḥ                                     saṅgas teṣūpajāyate                                             saṅgāt sañjāyate kāmaḥ                                           kāmāt krodho ’bhijāyate                                                                                                        While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises.                                                                                                             Bg. 2.63                                                क्रोधाद्भ‍वति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।                      स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ॥ ६३ ॥                           krodhād bhavati sammohaḥ                                    sammohāt smṛti-vibhramaḥ                                        smṛti-bhraṁśād buddhi-nāśo                                      buddhi-nāśāt praṇaśyati                                                                                                         From anger, complete delusion arises, and from delusion bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost one falls down again into the material pool."
+      ]
+    },
+    {
+      "tags": "Fear",
+      "patterns": [
+        "how can i overcome my fear",
+        "i have fear greater than needed",
+        "I have many phobias",
+        "how to control fear"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 4.10 वीतरागभयक्रोधा मन्मया मामुपाश्रिताः ।बहवो ज्ञानतपसा पूता मद्भ‍ावमागताः ॥ १० ॥vīta-rāga-bhaya-krodhāman-mayā mām upāśritāḥbahavo jñāna-tapasāpūtā mad-bhāvam āgatāḥ Being freed from attachment, fear and anger, being fully absorbed in Me and taking refuge in Me, many, many persons in the past became purified by knowledge of Me – and thus they all attained transcendental love for Me"
+      ]
+    },
+    {
+      "tags": "Lust",
+      "patterns": [
+        "how can i overcome my lust",
+        "lust is ruining my life",
+        "Lust is my weakness"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 3.37श्री भगवानुवाचकाम एष क्रोध एष रजोगुणसमुद्भ‍वः ।महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥ ३७ ॥śrī-bhagavān uvācakāma eṣa krodha eṣarajo-guṇa-samudbhavaḥmahāśano mahā-pāpmā viddhy enam iha vairiṇam The Supreme Personality of Godhead said: It is lust only, Arjuna, which is born of contact with the material mode of passion and later transformed into wrath, and which is the all-devouring sinful enemy of this world."
+      ]
+    },
+    {
+      "tags": "Confusion",
+      "patterns": [
+        "i am very confused person",
+        "confusion affects my life",
+        "MyLife is full of confusion"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 18.61ईश्वर: सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।भ्रामयन्सर्वभूतानि यन्‍त्रारूढानि मायया ॥ ६१ ॥īśvaraḥ sarva-bhūtānāṁhṛd-deśe ’rjuna tiṣṭhatibhrāmayan sarva-bhūtāniyantrārūḍhāni māyayā The Supreme Lord is situated in everyone’s heart, O Arjuna, and is directing the wanderings of all living entities, who are seated as on a machine, made of the material energy."
+      ]
+    },
+    {
+      "tags": "Feeling sinful",
+      "patterns": [
+        "i am the most sinnest person in the world",
+        "i have done many sins ",
+        "i am sinner"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 4.37यथैधांसि समिद्धोऽग्न‍िर्भस्मसात्कुरुतेऽर्जुन ।ज्ञानाग्न‍िः सर्वकर्माणि भस्मसात्कुरुते तथा ॥ ३७ ॥yathaidhāṁsi samiddho ’gnirbhasma-sāt kurute ’rjunañānāgniḥ sarva-karmāṇi hasma-sāt kurute tathā As a blazing fire turns firewood to ashes, O Arjuna, so does the fire of knowledge burn to ashes all reactions to material activities."
+      ]
+    },
+    {
+      "tags": "Practicing Forgiveness",
+      "patterns": [
+        "i csnnot forgive others",
+        "i lack forgiveness ",
+        "how to forgive others?"
+      ],
+      "Response": [
+        "This Skolas can help you BG.11.14 तस्मात्प्रणम्य प्रणिधाय कायंप्रसादये त्वामहमीशमीड्यम् ।पितेव पुत्रस्य सखेव सख्यु:प्रिय: प्रियायार्हसि देव सोढुम् ॥ ४४ ॥tasmāt praṇamya praṇidhāya kāyaṁ prasādaye tvām aham īśam īḍyam piteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum You are the Supreme Lord, to be worshiped by every living being. Thus I fall down to offer You my respectful obeisances and ask Your mercy. As a father tolerates the impudence of his son, a friend the impertinence of a friend, or a husband the familiarity of his wife, please tolerate the wrongs I may have done You."
+      ]
+    },
+    {
+      "tags": "Dealing with envy",
+      "patterns": [
+        "i am envious person",
+        "i cannot control myself being jealous of others",
+        "Envy is ruining my life",
+        "Being envious of others is my nature"
+      ],
+      "Response": [
+        "This Skolas can help you BG 12.13-14 अद्वेष्टा सर्वभूतानां मैत्र: करुण एव च । निर्ममो निरहङ्कार: समदु:खसुख: क्षमी ॥ १३ ॥ सन्तुष्ट: सततं योगी यतात्मा दृढनिश्चय: । मय्यर्पितमनोबुद्धिर्यो मद्भ‍क्त: स मे प्रिय: ॥ १४ ॥ adveṣṭā sarva-bhūtānāṁ maitraḥ karuṇa eva ca nirmamo nirahaṅkāraḥ sama-duḥkha-sukhaḥ kṣamī santuṣṭaḥ satataṁ yogī yatātmā dṛḍha-niścayaḥ mayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ  One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor and is free from false ego, who is equal in both happiness and distress, who is tolerant, always satisfied, self-controlled, and engaged in devotional service with determination, his mind and intelligence fixed on Me – such a devotee of Mine is very dear to Me."
+      ]
+    },
+    {
+      "tags": "Forgetfulness",
+      "patterns": [
+        " i am forgetive person",
+        "I forget things everytime",
+        "how can i overcome my forgetfulness"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 15.15 सर्वस्य चाहं हृदि सन्निविष्टोमत्त: स्मृतिर्ज्ञानमपोहनं च । वेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् ॥ १५ ॥ sarvasya cāhaṁ hṛdi sanniviṣṭo mattaḥ smṛtir jñānam apohanaṁ ca vedaiś ca sarvair aham eva vedyo vedānta-kṛd veda-vid eva cāham  I am seated in everyone’s heart, and from Me come remembrance, knowledge and forgetfulness. By all the Vedas, I am to be known. Indeed, I am the compiler of Vedānta, and I am the knower of the Vedas."
+      ]
+    },
+    {
+      "tags": "Pride",
+      "patterns": [
+        "i am very errogant person",
+        "I cannot control showing my prideness to other",
+        "I endup showing my errogance everytime",
+        "pride is what affecting me"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 16.4 दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च । अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ॥ ४ ॥ dambho darpo ’bhimānaś ca rodhaḥ pāruṣyam eva ca ajñānaṁ cābhijātasya ārtha sampadam āsurīm  Pride, arrogance, conceit, anger, harshness and ignorance – these qualities belong to those of demoniac nature, O son of Pṛthā."
+      ]
+    },
+    {
+      "tags": "Death of loved one",
+      "patterns": [
+        "I missed my dearone",
+        "how can i live now",
+        "I have died now",
+        "There is no reason to live now",
+        "i should end my life now"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 2.27 जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च । तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥ २७ ॥ jātasya hi dhruvo mṛtyur dhruvaṁ janma mṛtasya ca tasmād aparihārye ’rthe na tvaṁ śocitum arhasi One who has taken his birth is sure to die, and after death one is sure to take birth again. Therefore, in the unavoidable discharge of your duty, you should not lament."
+      ]
+    },
+    {
+      "tags": "Greed",
+      "patterns": [
+        " i am a very greddy person",
+        "I cannot control my greed",
+        "people say i am very greedy",
+        "Being greedy is my weakness"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 14.17 सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च । प्रमादमोहौ तमसो भवतोऽज्ञानमेव च ॥ १७ ॥ sattvāt sañjāyate jñānaṁ rajaso lobha eva ca pramāda-mohau tamaso bhavato ’jñānam eva ca From the mode of goodness, real knowledge develops; from the mode of passion, greed develops; and from the mode of ignorance develop foolishness, madness and illusion."
+      ]
+    },
+    {
+      "tags": "Seeking peace",
+      "patterns": [
+        "i want peace",
+        "Peace is missing in  mylife",
+        "Peace is the thing i am searching for",
+        "I am seeking peace"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 8.28 वेदेषु यज्ञेषु तप:सु चैव दानेषु यत्पुण्यफलं प्रदिष्टम् । अत्येति तत्सर्वमिदं विदित्वा योगी परं स्थानमुपैति चाद्यम् ॥ २८ ॥ vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yat puṇya-phalaṁ pradiṣṭam atyeti tat sarvam idaṁ viditvā yogī paraṁ sthānam upaiti cādyam  A person who accepts the path of devotional service is not bereft of the results derived from studying the Vedas, performing sacrifices, undergoing austerities, giving charity or pursuing philosophical and fruitive activities. Simply by performing devotional service, he attains all these, and at the end he reaches the supreme eternal abode."
+      ]
+    },
+    {
+      "tags": "Demotivated",
+      "patterns": [
+        "I dont have nay source of motivation",
+        "Motivation is missing in my life",
+        "What can motivate me?",
+        "What can motivate me"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 18.48 सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् । सर्वारम्भा हि दोषेण धूमेनाग्न‍िरिवावृता: ॥ ४८ ॥ saha-jaṁ karma kaunteya sa-doṣam api na tyajet sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ Every endeavor is covered by some fault, just as fire is covered by smoke. Therefore one should not give up the work born of his nature, O son of Kuntī, even if such work is full of fault."
+      ]
+    },
+    {
+      "tags": "Laziness",
+      "patterns": [
+        "I cannot work timely",
+        "I want to wrok hard",
+        "I cannot work efficiently",
+        "I am very lazy",
+        "Being lazy icannot complete m y work on time",
+        "Being lazy is my weakness"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 9.29 समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रिय: । ये भजन्ति तु मां भक्त्य‍ा मयि ते तेषु चाप्यहम् ॥ २९ ॥ samo ’haṁ sarva-bhūteṣu na me dveṣyo ’sti na priyaḥ ye bhajanti tu māṁ bhaktyā mayi te teṣu cāpy aham  I envy no one, nor am I partial to anyone. I am equal to all. But whoever renders service unto Me in devotion is a friend, is in Me, and I am also a friend to him."
+      ]
+    },
+    {
+      "tags": "Temptation",
+      "patterns": [
+        "desire to do something",
+        "I want to achieve many things in mylife",
+        "Whats stopping me to achieve my aim",
+        "I cannot fulfill my desires",
+        "I have many desires",
+        "I cxannot satisfy my desires"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 7.14 दैवी ह्येषा गुणमयी मम माया दुरत्यया । मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥ १४ ॥ daivī hy eṣā guṇa-mayī mama māyā duratyayā mām eva ye prapadyante māyām etāṁ taranti te This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it."
+      ]
+    },
+    {
+      "tags": "Depression",
+      "patterns": [
+        " ic annot understand whats happening",
+        "How can i control mylife",
+        "I don't know what to do",
+        "I am depressed",
+        "Depression is ruining mylife"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 5.21 बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् । स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्न‍ुते ॥ २१ ॥ bāhya-sparśeṣv asaktātmā vindaty ātmani yat sukham sa brahma-yoga-yuktātmā sukham akṣayam aśnute  Such a liberated person is not attracted to material sense pleasure but is always in trance, enjoying the pleasure within. In this way the self-realized person enjoys unlimited happiness, for he concentrates on the Supreme."
+      ]
+    },
+    {
+      "tags": "Loneliness",
+      "patterns": [
+        "Loneliness is my life",
+        "i dont have anyone in mylife",
+        "I don't want anyone in mylife",
+        "I want Mylife to be void",
+        "Being alone is my life now"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 13.16 बहिरन्तश्च भूतानामचरं चरमेव च । सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ॥ १६ ॥ bahir antaś ca bhūtānām acaraṁ caram eva ca sūkṣmatvāt tad avijñeyaṁ dūra-sthaṁ cāntike ca tat The Supreme Truth exists outside and inside of all living beings, the moving and the nonmoving. Because He is subtle, He is beyond the power of the material senses to see or to know. Although far, far away, He is also near to all."
+      ]
+    },
+    {
+      "tags": "Uncontrolled Mind",
+      "patterns": [
+        "My mind is my enemy",
+        "My mind is uncontrolled",
+        "I end up lose my mind",
+        "i don't have control on my mind",
+        "I cannot my mind please help me",
+        "How to contol mind",
+        "how can i control my mind"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 6.26 यतो यतो निश्चलति मनश्चञ्चलमस्थिरम् । ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥ २६ ॥ yato yato niścalati manaś cañcalam asthiram tatas tato niyamyaitad ātmany eva vaśaṁ nayet From wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self."
+      ]
+    },
+    {
+      "tags": "Losing Hope",
+      "patterns": [
+        "I always end up losing hope",
+        "I lack hope in my life",
+        "my life is without hope now",
+        "I am out of hope now",
+        "I don't have have anyone's hope now"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 18.78 यत्र योगेश्वर: कृष्णो यत्र पार्थो धनुर्धर: । तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥ ७८ ॥ yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ tatra śrīr vijayo bhūtir dhruvā nītir matir mama Wherever there is Kṛṣṇa, the master of all mystics, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality. That is my opinion."
+      ]
+    },
+    {
+      "tags": "Discriminated",
+      "patterns": [
+        "I am feeling discriminated?",
+        "Discrimination in my life",
+        "I always feel been discriminated",
+        "Discrimination is my problem",
+        "People discriminate me"
+      ],
+      "Response": [
+        "This Skolas can help you Bg. 5.5 यत्सां‍ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते ।एकं सां‍ख्यं च योगं च य: पश्यति स पश्यति ॥ ५ ॥ yat sāṅkhyaiḥ prāpyate sthānaṁ tad yogair api gamyate ekaṁ sāṅkhyaṁ ca yogaṁ ca yaḥ paśyati sa paśyati One who knows that the position reached by means of analytical study can also be attained by devotional service, and who therefore sees analytical study and devotional service to be on the same level, sees things as they are."
+      ]
+    },
+    {
+      "tags": "goodbye",
+      "patterns": [
+        "Bye",
+        "Thanks",
+        "Atlast",
+        "Solved",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "It was nice to meet you",
+        "I hope i helped you",
+        "Bye! Come back again soon",
+        "Always be happy!"
+      ]
+    }
+  ]
+}

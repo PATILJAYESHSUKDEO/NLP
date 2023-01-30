@@ -1,0 +1,246 @@
+{
+  "intents": [
+    {
+      "tag": "Welcome",
+      "patterns": [
+        "Hi",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Namaste",
+        "please help",
+        "Give me solution"
+      ],
+      "responses": [
+        "Namaste how can i help you",
+        "Welcome  How can i help",
+        "Hi i am here to help you",
+        "What can i do for you",
+        " how can I help?"
+      ]
+    },
+    {
+      "tag": "Services",
+      "patterns": [
+        "How can you help me ?",
+        "What services can you provide",
+        " Tell me something about your bank",
+        " Are any services available",
+        "i dont think you can help me",
+        "You are just a bot how can you help me ?"
+      ],
+      "responses": [
+        "I can help you the best way Following Services are available Account services, Payment services,    Insurance services,Loan services, Investment plans and many more",
+        "I will help you the best way Following Services are available Account services, Payment services, Insurance services,Loan services, Investment plans and many more",
+        "Sure Services available are Account services, Payment services, Insurance services,Loan services, Investment plans and many more",
+        "Be calm i can help you Following Services are available Account services, Payment services, Insurance service,Loan services, Investment plans and many more",
+        "I will provide the best service Following Services are available Account services, Payment services, Insurance service,Loan services, Investments plans and many more",
+        "Following Services are available Account services, Payment services, Insurance services,Loan services, Investment plans and many moreFor more clearity please visit our website"
+      ]
+    },
+    {
+      "tag": " Savings Account services",
+      "patterns": [
+        "I wanna open an Savings account",
+        "Process for Savings account",
+        "I want to open Savings acount",
+        "Can i open Savings account here? ",
+        " Is Savings account available here ?",
+        "Is Savings account possible",
+        "Saving account ??"
+      ],
+      "responses": [
+        "Sure! this is the process for savings account  https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Absolutely possible ! this is the process for Savings account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Any time! you can open Savings account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "It is available this is the process for Savings account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link"
+      ]
+    },
+     {
+      "tag": " Current Account services",
+      "patterns": [
+        "I wanna open an Current account",
+        "Process for Current account",
+        "I want to open Current acount",
+        "Can i open Current account here? ",
+        " Is Current account available here ?",
+        "Is Current account possible",
+        "Saving account ??"
+      ],
+      "responses": [
+        "Sure! this is the process for Current account  https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Absolutely possible ! this is the process for Current account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Any time! you can open Current account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "It is available this is the process for Current account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link"
+      ]
+    },
+    {
+      "tag": " Global Account services",
+      "patterns": [
+        "I wanna open an Global account",
+        "Process for Global account",
+        "I want to open Global acount",
+        "Can i open Global account here? ",
+        " Is Global account available here ?",
+        "Is Global account possible",
+        "Global account ??"
+      ],
+      "responses": [
+        "Sure! this is the process for Global account  https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Absolutely possible ! this is the process for Global account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Any time! you can open Global account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "It is available this is the process for Global account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link"
+      ]
+    },
+    {
+      "tag": " Minor Account services",
+      "patterns": [
+        "I wanna open an Minor account",
+        "Process for Minor account",
+        "I want to open Minor acount",
+        "Can i open Minor account here? ",
+        " Is Minor account available here ?",
+        "Is Minor account possible",
+        "Minor account ??"
+      ],
+      "responses": [
+        "Sure! this is the process for Minor account  https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Absolutely possible ! this is the process for Minor account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Any time! you can open Minor account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "It is available this is the process for Minor account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link"
+      ]
+    },
+    {
+      "tag": " joint Account services",
+      "patterns": [
+        "I wanna open an  joint account",
+        "Process for joint account",
+        "I want to open joint acount",
+        "Can i open joint account here? ",
+        " Is joint account available here ?",
+        "Is joint account possible",
+        "joint account ??"
+      ],
+      "responses": [
+        "Sure! this is the process for joint account  https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Absolutely possible ! this is the process for joint account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "Any time! you can open joint account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link",
+        "It is available this is the process for joint account https://www.hdfcbank.com/personal/save/accounts/savings-accounts?utm_source=branch_locator&utm_medium=external_link"
+      ]
+    },
+        
+    {
+      "tag": "Loan services",
+      "patterns": [
+        "I want car loan",
+        "Can i get education loan",
+        "process for home laon",
+        "I need home loan",
+        "what is the process for car loan?",
+        "Is Rural loan available",
+        "Loans avaiable in your bank",
+        "I want personal loan",
+        "Gold loan is available ?"
+      ],
+      "responses": [
+        "This is the process for car loan https://www.hdfcbank.com/personal/borrow/popular-loans",
+        "process for education loan https://www.hdfcbank.com/personal/borrow/popular-loans",
+        "Personal loan https://www.hdfcbank.com/personal/borrow/popular-loans",
+        "All information regarding loans is available here https://www.hdfcbank.com/personal/borrow/popular-loans",
+        "you can visit this link for more deatils https://www.hdfcbank.com/personal/borrow/popular-loans",
+        "Loans available are Car loan, Personal loan, education loan, business loan, Rural loan, Gold loan https://www.hdfcbank.com/personal/borrow/popular-loans"
+      ]
+    },
+    {
+      "tag": "Payment services",
+      "patterns": [
+        "I want Credit card",
+        "Wanna Apply for debit card",
+        "How can apply for Visa card",
+        "Process for debit card",
+        " How to get mastercard",
+        "Your bank provides Mastercard?",
+        "Is credit card available ?",
+        "What payment services available ?",
+        "Can I use RTGS",
+        "Is NEFT available ?"
+      ],
+      "responses": [
+        "Absolutely all payments services are available like Debit card, Credit card, Visa card, Mastercard, NEFT, RTGS, Cheque, NET banking and others as well https://www.hdfcbank.com/personal/pay/money-transfer",
+        "We have following payment services available Debit card, Credit card, Visa card, Mastercard, NEFT, RTGS, Cheque, NET banking and others as well https://www.hdfcbank.com/personal/pay/money-transfer",
+        "Payment services are Debit card, Credit card, Visa card, Mastercard, NEFT, RTGS, Cheque, NET banking and others as well https://www.hdfcbank.com/personal/pay/money-transfer"
+      ]
+    },
+    {
+      "tag": "Insurance services",
+      "patterns": [
+        "Insurance plans are available ?",
+        "What types of insurance",
+        "Insurances like home insurances available?",
+        "Your bank offers what type of insurances ?",
+        "Any new types of insurance ?"
+      ],
+      "responses": [
+        "We offer many types of insurances like Life insurance, vehicle insurance, Health insurance, Cyber insurance and other as well https://www.hdfcbank.com/personal/insure/life-insurance/pension-plans",
+        "Insurance avaiable are Life insurance, vehicle insurance, Health insurance, Cyber insurance and other as well https://www.hdfcbank.com/personal/insure/life-insurance/pension-plans",
+        " Types of insurances offer are Life insurance, vehicle insurance, Health insurance, Cyber insurance and other as well https://www.hdfcbank.com/personal/insure/life-insurance/pension-plans",
+        "Following are the insurance types - Life insurance, vehicle insurance, Health insurance, Cyber insurance and other as well https://www.hdfcbank.com/personal/insure/life-insurance/pension-plans"
+      ]
+    },
+    {
+      "tag": "Avaiable",
+      "patterns": [
+        "What hours are you open?",
+        "What are your hours?",
+        "When are you open?",
+        "When can i contact your bank",
+        "customer care time",
+        "Bank open time"
+      ],
+      "responses": [
+        "Our bank are open everday except sunday from 9am to 5pm",
+        "our customer care are open every day from 9am-7pm Mon to Sat",
+        "Our hours are 9am-9pm Monday to saturday",
+        "you can visit us except sunday from 9am to 5pm",
+        "visit us https://www.hdfcbank.com/personal/need-help/contact-us"
+      ]
+    },
+    {
+      "tag": "Branch",
+      "patterns": [
+        "Where are your branches",
+        "Tell me nearest branch",
+        " Branch address",
+        "Cannot find bank",
+        "i cannot find your branch",
+        "Where are your ATMs",
+        "ATMs locations"
+      ],
+      "responses": [
+        "Be calm and find our centers https://near-me.hdfcbank.com/branch-atm-locator/",
+        "we are at this much places https://near-me.hdfcbank.com/branch-atm-locator/",
+        "you can find our branches https://near-me.hdfcbank.com/branch-atm-locator/",
+        "Our bank branches list https://near-me.hdfcbank.com/branch-atm-locator/",
+        "You can easily find our Bank and ATMs https://near-me.hdfcbank.com/branch-atm-locator/"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Thanks",
+        "Atlast",
+        "Solved",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "It was nice to meet you",
+        "I hope i helped you",
+        "Bye! Come back again soon"
+      ]
+    }
+  ]
+}
